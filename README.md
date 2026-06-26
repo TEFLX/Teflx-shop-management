@@ -164,3 +164,25 @@ TEFLX can be customized for:
 ## License
 
 This project is intended for demonstration and commercial customization. Contact the developer for licensing, customization, or deployment support.
+
+## 📞 Contact & Commercial Inquiries
+
+Interested in this Shop Management System for your business or looking for a customized version?
+
+Feel free to get in touch for:
+
+* 🛒 Product Demo
+* 🏢 Business Customization
+* 💼 Commercial Licensing
+* 🛠️ Feature Development
+* 🤝 Collaboration & Support
+
+### 🌐 ORQELIX
+
+* **GitHub:** https://github.com/Orqelix
+* **LinkedIn:** https://www.linkedin.com/company/orqelix
+* **Instagram:** https://www.instagram.com/orqelix
+* **Email:** [contact@orqelix.com](mailto:orqelix@gmail.com)
+
+> Whether you run a grocery store, pharmacy, clothing shop, electronics store, hardware business, or any other retail operation, this application can be tailored to your requirements.
+
